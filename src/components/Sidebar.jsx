@@ -29,7 +29,7 @@ const Sidebar = () => {
           </div>
           <div>
             <p class=" font-thin bg-gray-500 text-white py-2 px-24 mt-2 border border-yellow-500 hover:border-transparent rounded-full">
-              Create chat
+              Create cht
             </p>
           </div>
         </div>
